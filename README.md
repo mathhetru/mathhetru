@@ -8,9 +8,9 @@
 
 
 <!--Languages and Tools Section-->       
-<h2>Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p>
-<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,vuejs,nodejs,express,mongodb,git,vscode,docker&perline=10"  />
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img align="center" width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,vuejs,nodejs,express,mongodb,git,vscode&perline=10"  />
 </p>
 <br />
 
