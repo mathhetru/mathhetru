@@ -4,13 +4,13 @@
 - 💻 I'm currently doing an internship at @adeo
 - 🌱 I’m currently learning ReactJS, VueJS, GraphQL...
 - ⚡ Fun fact: I was Graphic Designer and Illustrator before launching myself completely into web development.
-- 🎨 You can see some my work on https://www.mathildehetru.com
+- 🎨 You can see some my work on [Portfolio](https://www.mathildehetru.com)
 
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img align="center" width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,vuejs,nodejs,express,mongodb,git,vscode&perline=10"  />
+<img align="center" width="500px"  src="https://skillicons.dev/icons?i=js,html,css,sass,react,vuejs,nodejs,express,graphql,mongodb,git,vscode&perline=10"  />
 </p>
 <br />
 
