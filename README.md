@@ -4,6 +4,7 @@
 - 💻 I'm currently doing an internship at [Adeo Services](https://www.adeo.com/en/)
 - 🌱 I’m currently learning ReactJS, VueJS, GraphQL...
 - ⚡ Fun fact: I was Graphic Designer and Illustrator before launching myself completely into web development.
+- ⚡ Fun fact n°2: I illustrated a humoristic book for single women.
 - 🎨 You can see some my work on [Portfolio](https://www.mathildehetru.com)
 
 
