@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the 13th project of the front end web developer training path from [OpenClassrooms](https://openclassrooms.com/en/)
+- 🔭 I’m currently working on the last project of the front end web developer training path from [OpenClassrooms](https://openclassrooms.com/en/)
 - 💻 I'm currently doing an internship at [Adeo Services](https://www.adeo.com/en/)
 - 🌱 I’m currently learning ReactJS, VueJS, Nuxt, GraphQL...
 - ⚡ Fun fact: I was Graphic Designer and Illustrator before launching myself completely into web development.
