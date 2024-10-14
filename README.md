@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👩🏻‍💻 I’m front end web developer 
-- 💻 I'm doing an internship at [Adeo Services](https://www.adeo.com/en/)
+- 💻 I'm currently working at [Adeo Services](https://www.adeo.com/en/)
 - 🌱 I’m learning ReactJS, VueJS, Nuxt, GraphQL...
 - 🖍️ Fun fact: I was Graphic Designer and Illustrator before launching myself completely into web development.
 - 📕 Fun fact n°2: I illustrated a humoristic book for single women.
