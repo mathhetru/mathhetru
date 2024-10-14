@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩🏻‍💻 I’m currently working on the last project of the front end web developer training path from [OpenClassrooms](https://openclassrooms.com/en/)
+- 👩🏻‍💻 I’m front end web developer 
 - 💻 I'm doing an internship at [Adeo Services](https://www.adeo.com/en/)
 - 🌱 I’m learning ReactJS, VueJS, Nuxt, GraphQL...
 - 🖍️ Fun fact: I was Graphic Designer and Illustrator before launching myself completely into web development.
@@ -11,7 +11,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img align="center" width="500px"  src="https://skillicons.dev/icons?i=js,html,css,sass,react,vuejs,nodejs,graphql,git,vscode&perline=10"  />
+<img align="center" width="500px"  src="https://skillicons.dev/icons?i=html,css,sass,tailwind,ts,js,nodejs,vite,react,vuejs,nuxt,redux,graphql,cypress,jest,git,npm,docker,vscode&perline=10"  />
 </p>
 <br />
 
