@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩🏻‍💻 I’m front end web developer 
+- 👩🏻‍💻 I’m front end developer 
 - 🏢 I'm currently working at [Adeo Services](https://www.adeo.com/en/)
 - 🔧 I use Typescript, VueJS, Nuxt, GraphQL.
 - 🌱 I'm learning ReactJS, AngularJS... 
