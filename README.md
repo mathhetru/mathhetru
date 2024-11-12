@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="left">Hi there 👋</h1> 
 
 - 👩🏻‍💻 I’m front end developer 
 - 🔧 I use Typescript, VueJS, Nuxt, GraphQL.
