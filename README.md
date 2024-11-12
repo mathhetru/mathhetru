@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 👩🏻‍💻 I’m front end developer 
-- 🏢 I'm currently working at [Adeo Services](https://www.adeo.com/en/)
 - 🔧 I use Typescript, VueJS, Nuxt, GraphQL.
 - 🎨 Fun fact: I was Graphic Designer and Illustrator before launching myself completely into web development.
 - 📕 Fun fact n°2: I illustrated a humoristic book for single women.
