@@ -56,9 +56,7 @@
 #### I'm interested in / I'm learning...
 
 ![Java](https://img.shields.io/badge/Java-EA8220?style=for-the-badge&logoColor=FFF&labelColor=EA8220)
-
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 
