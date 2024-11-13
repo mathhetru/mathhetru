@@ -6,7 +6,6 @@
 - 📕 Fun fact n°2: I illustrated a humoristic book for single women.
 - 💻 You can see some of my work on [Portfolio](https://www.mathildehetru.com)
 
-
 <!--Languages and Tools Section-->       
 <h2 align="left">Languages & tools</h2> 
 <!--<p align="center">
@@ -59,10 +58,11 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-
 <!--- <table><tr><td valign="top" width="100%">
 
 <a href="http://www.github.com/mathhetru"><img src="https://github-readme-stats.vercel.app/api?username=mathhetru&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="mathhetru's GitHub stats" /></a>
  
+![](https://github-readme-streak-stats.herokuapp.com/?user=MathHetru&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MathHetru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </td>
 </table> --->
