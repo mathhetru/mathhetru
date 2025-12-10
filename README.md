@@ -2,12 +2,11 @@
 
 ### 👩🏻‍💻 Web Developer | 🎨 Graphic Designer & Illustrator
 
-I build beautiful, performant web experiences with **Vue.js** and **Nuxt**, and bring a unique creative perspective from my design background.
+I build beautiful, performant web experiences with **Nuxt**, and bring a unique creative perspective from my design background.
 
-- 🚀 You can see some of my work on [Portfolio](https://www.mathildehetru.com)
+- 🚀 You can see some of my work on [website](https://www.mathildehetru.com)
 - 🌱 Learning: Nest, Java
-- 🎨 Fun fact: I illustrated a humoristic book for single women.
-- 💬 Ask me about: Vue ecosystem, design systems, or tips for single life 😄
+- 🎨 Fun fact: I illustrated a humoristic book for single women
 - 📫 Reach me: hello@mathildehetru.com
 
 ## 🚀 Current Focus
