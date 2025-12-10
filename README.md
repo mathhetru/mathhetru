@@ -4,7 +4,7 @@
 
 I build beautiful, performant web experiences with **Nuxt**, and bring a unique creative perspective from my design background.
 
-- 🚀 You can see some of my work on [website](https://www.mathildehetru.com)
+- 🚀 You can see some of my work on my [website](https://www.mathildehetru.com)
 - 🌱 Learning: Nest, Java
 - 🎨 Fun fact: I illustrated a humoristic book for single women
 - 📫 Reach me: hello@mathildehetru.com
